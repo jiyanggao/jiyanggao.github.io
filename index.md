@@ -21,7 +21,7 @@ Zhenheng Yang, **Jiyang Gao** and Ram Nevatia, "_Spatio-Temporal Action Detectio
 ## Awards
 Annenberg Graduate Fellowship at University of Southern California, 2015
 
-Excelent Bachelor Thesis at Tsinghua University, 2015
+Excellent Bachelor Thesis at Tsinghua University, 2015
 
 Changhong Scholarship at Tsinghua University, 2014
 
