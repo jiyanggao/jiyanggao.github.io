@@ -2,6 +2,9 @@
 layout: default
 ---
 
+### Publications
+**Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "Cascaded Boundary Regression for Temporal Action Detection", in British Machine Vision Conference (BMVC), 2017 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
