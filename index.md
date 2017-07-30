@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## Publications
-**Jiyang Gao**, Chen Sun, Zhenheng Yang and Ram Nevatia, "_TALL: Temporal Activity Localization via Language Query_", in International Conference on Computer Vision (ICCV), 2017, [arxiv](https://arxiv.org/abs/1705.02101)
+**Jiyang Gao**, Chen Sun, Zhenheng Yang and Ram Nevatia, "_TALL: Temporal Activity Localization via Language Query_", in International Conference on Computer Vision (ICCV), 2017, [arxiv](https://arxiv.org/abs/1705.02101), [code](https://github.com/jiyanggao/TALL)
 
-**Jiyang Gao**, Zhenheng Yang, Kan Chen, Chen Sun and Ram Nevatia, "_TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals_", in International Conference on Computer Vision (ICCV), 2017, [arxiv](https://arxiv.org/abs/1703.06189)
+**Jiyang Gao**, Zhenheng Yang, Kan Chen, Chen Sun and Ram Nevatia, "_TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals_", in International Conference on Computer Vision (ICCV), 2017, [arxiv](https://arxiv.org/abs/1703.06189), [code](https://github.com/jiyanggao/TURN-TAP)
 
 **Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "_Cascaded Boundary Regression for Temporal Action Detection_", in British Machine Vision Conference (BMVC), 2017, [arxiv](https://arxiv.org/abs/1705.01180) 
 
