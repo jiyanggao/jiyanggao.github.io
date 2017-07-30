@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm currently a PhD student at University of Southern California, advised by Prof. Ram Nevatia. My research focus on computer vision, especially activity detection and video analysis. I obtained my B.S. degree from Tsinghua University in 2015. I interned at Sensetime in 2015 and at Google Research in 2017.
+I'm currently a PhD student at University of Southern California, advised by Prof. Ram Nevatia. My research focus on computer vision, especially activity detection, temporal reasoning and video analysis. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015 and at Google Research during 2017 summer.
 
 ## Publications
 **Jiyang Gao**, Chen Sun, Zhenheng Yang and Ram Nevatia, "_TALL: Temporal Activity Localization via Language Query_", in International Conference on Computer Vision (ICCV), 2017, [arxiv](https://arxiv.org/abs/1705.02101), [code](https://github.com/jiyanggao/TALL)
