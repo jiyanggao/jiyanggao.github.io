@@ -15,7 +15,7 @@ I'm currently a PhD student at University of Southern California, advised by Pro
 
 **Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "_RED: Reinforced Encoder-Decoder Network for Action Anticipation_", in British Machine Vision Conference (BMVC), 2017 **[Oral]**, [arxiv](https://arxiv.org/abs/1707.04818)
 
-Zhenheng Yang, **Jiyang Gao** and Ram Nevatia, "_Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation_", in British Machine Vision Conference (BMVC), 2017 **[Oral]**
+Zhenheng Yang, **Jiyang Gao** and Ram Nevatia, "_Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation_", in British Machine Vision Conference (BMVC), 2017 **[Oral]**, [arxiv](https://arxiv.org/abs/1708.00042)
 
 **Jiyang Gao** and Ram Nevatia, “_Learning Action Concept Trees and Semantic Alignment Networks from Image-Description Data_” in Asian Conference on Computer Vision (ACCV), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1609.02284)
 
