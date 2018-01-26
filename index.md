@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm currently a PhD candidate at University of Southern California, advised by Prof. Ram Nevatia. My research focus on computer vision, especially activity detection, temporal reasoning and video analysis. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015 and at Google Research during 2017 summer.
+I'm currently a PhD candidate at University of Southern California, advised by Prof. Ram Nevatia. My research focus on computer vision, especially activity detection, temporal reasoning and video analysis. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015 and at Google Research during 2017 summer, I will spend 2018 summer at Google Cloud AI.
 
 ## Publications
 **Jiyang Gao**, Zijian (James) Guo, Zhen Li, Ram Nevatia, "_Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN_", tech report, [arxiv](https://arxiv.org/abs/1711.07607)
