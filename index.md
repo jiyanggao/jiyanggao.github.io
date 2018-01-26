@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-### About Me
+## About Me
 I'm currently a PhD candidate at University of Southern California, advised by Prof. Ram Nevatia. My research focus on computer vision, especially activity detection, temporal reasoning and video analysis. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015 and at Google Research during 2017 summer.
 
-### Publications
+## Publications
 **Jiyang Gao**, Zijian (James) Guo, Zhen Li, Ram Nevatia, "_Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN_", tech report, [arxiv](https://arxiv.org/abs/1711.07607)
 
 **Jiyang Gao**, Chen Sun, Zhenheng Yang and Ram Nevatia, "_TALL: Temporal Activity Localization via Language Query_", in International Conference on Computer Vision (ICCV), 2017, **[Spotlight]**, [arxiv](https://arxiv.org/abs/1705.02101), [code](https://github.com/jiyanggao/TALL)
@@ -21,10 +21,10 @@ Zhenheng Yang, **Jiyang Gao** and Ram Nevatia, "_Spatio-Temporal Action Detectio
 
 **Jiyang Gao**, Chen Sun and Ram Nevatia, “_ACD: Action Concept Discovery from Image-Sentence Corpora_” in ACM International Conference on Multimedia Retrieval (ACM ICMR), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1604.04784)
 
-### Professional Services
+## Professional Services
 Conference Reviewer for ACM MM'17, CVPR'18
 
-### Awards
+## Awards
 Annenberg Graduate Fellowship at University of Southern California, 2015
 
 Excellent Bachelor Thesis at Tsinghua University, 2015
