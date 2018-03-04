@@ -5,7 +5,7 @@ layout: default
 I'm currently a PhD candidate at University of Southern California, advised by Prof. Ram Nevatia. My research focus on computer vision, especially activity detection, temporal reasoning and video analysis. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015 and at Google Research during 2017 summer, I will spend 2018 summer at Google Cloud AI.
 
 ## Publications
-**Jiyang Gao**, Runzhou Ge, Ram Nevatia, "_Motion-Appearance Co-Memory Networks for Video Question Answering_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018
+**Jiyang Gao**, Runzhou Ge, Kan Chen, Ram Nevatia, "_Motion-Appearance Co-Memory Networks for Video Question Answering_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018
 
 Kan Chen, **Jiyang Gao**, Ram Nevatia, "_Knowledge Aided Consistency for Weakly Supervised Phrase Grounding_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018
 
