@@ -15,7 +15,7 @@ Kan Chen, **Jiyang Gao**, Ram Nevatia, "_Knowledge Aided Consistency for Weakly 
 
 **Jiyang Gao\***, Zhenheng Yang*, Kan Chen, Chen Sun and Ram Nevatia, "_TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals_", in International Conference on Computer Vision (**ICCV**), 2017, [arxiv](https://arxiv.org/abs/1703.06189), [code](https://github.com/jiyanggao/TURN-TAP)
 
-**Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "_Cascaded Boundary Regression for Temporal Action Detection_", in British Machine Vision Conference (**BMVC**), 2017, [arxiv](https://arxiv.org/abs/1705.01180), [THUMOS-14 results](https://github.com/jiyanggao/CBR-results) 
+**Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "_Cascaded Boundary Regression for Temporal Action Detection_", in British Machine Vision Conference (**BMVC**), 2017, [arxiv](https://arxiv.org/abs/1705.01180), [code](https://github.com/jiyanggao/CBR), [THUMOS-14 results](https://github.com/jiyanggao/CBR-results) 
 
 **Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "_RED: Reinforced Encoder-Decoder Network for Action Anticipation_", in British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [arxiv](https://arxiv.org/abs/1707.04818)
 
