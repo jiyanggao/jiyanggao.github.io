@@ -7,7 +7,7 @@ I'm currently a PhD candidate at University of Southern California, advised by P
 ## Publications
 **Jiyang Gao\***, Runzhou Ge\*, Kan Chen, Ram Nevatia, "_Motion-Appearance Co-Memory Networks for Video Question Answering_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018
 
-Kan Chen, **Jiyang Gao**, Ram Nevatia, "_Knowledge Aided Consistency for Weakly Supervised Phrase Grounding_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018
+Kan Chen, **Jiyang Gao**, Ram Nevatia, "_Knowledge Aided Consistency for Weakly Supervised Phrase Grounding_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018, [arxiv](https://arxiv.org/pdf/1803.03879.pdf), [code](https://github.com/kanchen-usc/KAC-Net) 
 
 **Jiyang Gao**, Zijian (James) Guo, Zhen Li, Ram Nevatia, "_Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN_", tech report for the summer intern at Google Research, [arxiv](https://arxiv.org/abs/1711.07607)
 
