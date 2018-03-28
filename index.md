@@ -10,6 +10,13 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 **B.S in Tsinghua University, Aug 2011 - Jul 2015**
 
 
+<div align="left">
+        <strong> Tsinghua University
+          <a href="http://www.tsinghua.edu.cn/publish/newthuen/" target="_blank" rel="external">
+            <img border="0" src="Tsinghua_Logo.png">
+          </a> </strong>
+      </div>
+
 
 ## Publications
 **Jiyang Gao\***, Runzhou Ge\*, Kan Chen, Ram Nevatia, "_Motion-Appearance Co-Memory Networks for Video Question Answering_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018
