@@ -13,18 +13,22 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
           </a> 
         <ul>
         <li>
-          Doctor of Philosophy (Ph.D), Computer Vision</li>
+          Doctor of Philosophy (Ph.D), Electrical Engineering</li>
+        <li>
+          Advisor: Prof. Ram Nevatia</li>
       </ul>      
       </div>
 
 <div align="left">
-        <strong> Tsinghua University, Beijing, China, Aug 2011 - Jul 2015 </strong>
+        <strong> Tsinghua University, Aug 2011 - Jul 2015 </strong>
           <a href="http://www.tsinghua.edu.cn/publish/newthuen/" target="_blank" rel="external">
             <img border="0" src="Tsinghua_Logo.png" align="right" width="80" height="80">
           </a> 
         <ul>
         <li>
           Bachelor of Engineering (B.E), Microelectronics</li>
+        <li>
+          Graduated with Excelent Thesis Award</li>
       </ul>      
       </div>
 
