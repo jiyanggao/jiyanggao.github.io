@@ -11,7 +11,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 <div align="left">
         <strong> Tsinghua University, Beijing, China, Aug 2011 - Jul 2015 </strong>
           <a href="http://www.tsinghua.edu.cn/publish/newthuen/" target="_blank" rel="external">
-            <img border="0" src="Tsinghua_Logo.png" align="right" width="100" height="100">
+            <img border="0" src="Tsinghua_Logo.png" align="right" width="80" height="80">
           </a> 
         <ul>
         <li>
