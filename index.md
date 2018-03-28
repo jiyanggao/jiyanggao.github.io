@@ -49,13 +49,13 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 <div align="left">
         <strong> Google Research, Mountain View, CA, USA (May 2017 - Aug 2017) </strong>
           <a href="https://research.google.com/" target="_blank" rel="external">
-            <img border="0" src="google-research-logo.png" align="right" width="75" height="75">
+            <img border="0" src="google-research-logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
           Position: Software Engineering Intern</li>
         <li>
-          Proposed and designed a "knowledge concentration" method for super large scale (100K classes) image classification. </li>
+          Super large scale (100K classes) image classification, <a href="https://arxiv.org/abs/1711.07607" target="_blank" rel="external"> tech report </a>. </li>
       </ul>      
       </div>
 
@@ -68,7 +68,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
         <li>
           Position: Research Intern</li>
         <li>
-          Implemented and evaluated a deep conv human pose estimation model (DeepPose). </li>
+          Human pose estimation with deep CNN. </li>
       </ul>      
       </div>
      
@@ -80,7 +80,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
         <ul>
         <li>
           Position: Research Intern, in UGVR program</li>
-        <li>Developed a bladder 3D reconstruction method from endoscope images based on structure from motion. </li>
+        <li>Bladder 3D reconstruction from endoscope images using SFM. </li>
       </ul>      
       </div>
       
