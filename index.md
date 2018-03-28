@@ -33,8 +33,45 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 
 
 ## Experience
+<div align="left">
+        <strong> Google Research, Mountain View, CA, USA (May 2017 - Aug 2017) </strong>
+          <a href="https://research.google.com/" target="_blank" rel="external">
+            <img border="0" src="google-research-logo.png" align="right" width="110" height="75">
+          </a> 
+        <ul>
+        <li>
+          Position: Software Engineering Intern</li>
+        <li>
+          Proposed and designed a "knowledge concentration" method for super large scale (100K classes) image classification. </li>
+      </ul>      
+      </div>
 
-
+<div align="left">
+        <strong> Sensetime, Beijing, China (Feb 2015 - Jun 2015) </strong>
+          <a href="https://www.sensetime.com/about?lang=en-us" target="_blank" rel="external">
+            <img border="0" src="sensetime-logo.png" align="right" width="120" height="35">
+          </a> 
+        <ul>
+        <li>
+          Position: Research Intern</li>
+        <li>
+          Implemented and evaluated a deep conv human pose estimation model (DeepPose). </li>
+      </ul>      
+      </div>
+     
+<div align="left">
+        <strong> Stanford University, Stanford, CA, USA (Jun 2014 - Aug 2014) </strong>
+          <a href="https://www.sensetime.com/about?lang=en-us" target="_blank" rel="external">
+            <img border="0" src="stanford-logo.png" align="right" width="50" height="80">
+          </a> 
+        <ul>
+        <li>
+          Position: Research Intern, in UGVR program</li>
+        <li>
+          Developed a bladder 3D reconstruction method from endoscope images based on structure from motion. </li>
+      </ul>      
+      </div>
+      
 ## Publications
 **Jiyang Gao\***, Runzhou Ge\*, Kan Chen, Ram Nevatia, "_Motion-Appearance Co-Memory Networks for Video Question Answering_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018
 
