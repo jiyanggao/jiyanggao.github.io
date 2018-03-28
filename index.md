@@ -67,8 +67,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
         <ul>
         <li>
           Position: Research Intern, in UGVR program</li>
-        <li>
-          Developed a bladder 3D reconstruction method from endoscope images based on structure from motion. </li>
+        <li>Developed a bladder 3D reconstruction method from endoscope images based on structure from motion. </li>
       </ul>      
       </div>
       
