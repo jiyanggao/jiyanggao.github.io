@@ -36,7 +36,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 <div align="left">
         <strong> Google Cloud, Sunnyvale, CA, USA (May 2018 - Aug 2018) </strong>
           <a href="https://cloud.google.com/vision/" target="_blank" rel="external">
-            <img border="0" src="google-cloud-logo.jpg" align="right" width="75" height="75">
+            <img border="0" src="google-cloud-logo.jpg" align="right" width="75" height="65">
           </a> 
         <ul>
         <li>
@@ -62,7 +62,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 <div align="left">
         <strong> Sensetime, Beijing, China (Feb 2015 - Jun 2015) </strong>
           <a href="https://www.sensetime.com/about?lang=en-us" target="_blank" rel="external">
-            <img border="0" src="sensetime-logo.png" align="right" width="75" height="80">
+            <img border="0" src="sensetime-logo.png" align="right" width="65" height="70">
           </a> 
         <ul>
         <li>
@@ -75,7 +75,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 <div align="left">
         <strong> Stanford University, Stanford, CA, USA (Jun 2014 - Aug 2014) </strong>
           <a target="_blank" rel="external">
-            <img border="0" src="stanford-logo.png" align="right" width="75" height="75">
+            <img border="0" src="stanford-logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
