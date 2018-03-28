@@ -27,7 +27,7 @@ I'm Jiyang Gao (高继扬), currently a 3rd-year PhD candidate at University of 
         <li>
           Bachelor of Engineering (B.E), Microelectronics</li>
         <li>
-          Graduated with Excelent Thesis Award</li>
+          Graduated with Excellent Thesis Award</li>
       </ul>      
       </div>
 
@@ -101,9 +101,9 @@ Kan Chen, **Jiyang Gao**, Ram Nevatia, "_Knowledge Aided Consistency for Weakly 
 
 Zhenheng Yang, **Jiyang Gao** and Ram Nevatia, "_Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation_", in British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [arxiv](https://arxiv.org/abs/1708.00042), [video](https://www.youtube.com/watch?v=oxPxY0aB4eI) 
 
-<!--**Jiyang Gao** and Ram Nevatia, “_Learning Action Concept Trees and Semantic Alignment Networks from Image-Description Data_” in Asian Conference on Computer Vision (**ACCV**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1609.02284)-->
+**Jiyang Gao** and Ram Nevatia, “_Learning Action Concept Trees and Semantic Alignment Networks from Image-Description Data_” in Asian Conference on Computer Vision (**ACCV**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1609.02284)
 
-<!--**Jiyang Gao**, Chen Sun and Ram Nevatia, “_ACD: Action Concept Discovery from Image-Sentence Corpora_” in ACM International Conference on Multimedia Retrieval (**ACM ICMR**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1604.04784) -->
+**Jiyang Gao**, Chen Sun and Ram Nevatia, “_ACD: Action Concept Discovery from Image-Sentence Corpora_” in ACM International Conference on Multimedia Retrieval (**ACM ICMR**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1604.04784)
 
 ## Professional Services
 Conference Reviewer for ACM MM'17, CVPR'18 
