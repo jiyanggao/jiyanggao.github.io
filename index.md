@@ -7,13 +7,11 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 ## Education
 **Ph.D in University of Southern California, Aug 2015 - Dec 2018 (expected)**
 
-**B.S in Tsinghua University, Aug 2011 - Jul 2015**
-
 
 <div align="left">
         <strong> Tsinghua University, Beijing, China, Aug 2011 - Jul 2015 </strong>
           <a href="http://www.tsinghua.edu.cn/publish/newthuen/" target="_blank" rel="external">
-            <img border="0" src="Tsinghua_Logo.png" align="right" width="100" height="100" vspace="200">
+            <img border="0" src="Tsinghua_Logo.png" align="right" width="100" height="100" vspace="200">
           </a> 
         <ul>
         <li>
