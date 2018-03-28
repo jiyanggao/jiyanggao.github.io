@@ -36,7 +36,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 <div align="left">
         <strong> Google Cloud, Sunnyvale, CA, USA (May 2018 - Aug 2018) </strong>
           <a href="https://cloud.google.com/vision/" target="_blank" rel="external">
-            <img border="0" src="google-logo.png" align="right" width="65" height="65">
+            <img border="0" src="google-logo.png" align="right" width="60" height="60">
           </a> 
         <ul>
         <li>
@@ -49,7 +49,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 <div align="left">
         <strong> Google Research, Mountain View, CA, USA (May 2017 - Aug 2017) </strong>
           <a href="https://research.google.com/" target="_blank" rel="external">
-            <img border="0" src="google-logo.png" align="right" width="65" height="65">
+            <img border="0" src="google-logo.png" align="right" width="60" height="60">
           </a> 
         <ul>
         <li>
