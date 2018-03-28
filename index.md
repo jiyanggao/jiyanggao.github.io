@@ -49,7 +49,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
 <div align="left">
         <strong> Sensetime, Beijing, China (Feb 2015 - Jun 2015) </strong>
           <a href="https://www.sensetime.com/about?lang=en-us" target="_blank" rel="external">
-            <img border="0" src="sensetime-logo.png" align="right" width="120" height="35">
+            <img border="0" src="sensetime-logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
@@ -61,8 +61,8 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
      
 <div align="left">
         <strong> Stanford University, Stanford, CA, USA (Jun 2014 - Aug 2014) </strong>
-          <a href="https://www.sensetime.com/about?lang=en-us" target="_blank" rel="external">
-            <img border="0" src="stanford-logo.png" align="right" width="50" height="80">
+          <a target="_blank" rel="external">
+            <img border="0" src="stanford-logo.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
