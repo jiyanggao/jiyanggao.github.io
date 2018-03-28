@@ -5,10 +5,9 @@ layout: default
 I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern California, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focus on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015 and at Google Research during 2017 summer, I will spend 2018 summer at Google Cloud AI.
 
 ## Education
-
 <div align="left">
-        <strong> University of Southern California, Aug 2015 - Now </strong>
-          <a href="http://www.tsinghua.edu.cn/publish/newthuen/" target="_blank" rel="external">
+        <strong> University of Southern California, Los Angeles, USA (Aug 2015 - Now) </strong>
+          <a href="https://www.usc.edu/" target="_blank" rel="external">
             <img border="0" src="usc_logo.jpg" align="right" width="70" height="70">
           </a> 
         <ul>
@@ -20,7 +19,7 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
       </div>
 
 <div align="left">
-        <strong> Tsinghua University, Aug 2011 - Jul 2015 </strong>
+        <strong> Tsinghua University, Beijing, China (Aug 2011 - Jun 2015) </strong>
           <a href="http://www.tsinghua.edu.cn/publish/newthuen/" target="_blank" rel="external">
             <img border="0" src="Tsinghua_Logo.png" align="right" width="70" height="70">
           </a> 
@@ -31,6 +30,9 @@ I'm Jiyang Gao (高继扬), currently a PhD candidate at University of Southern 
           Graduated with Excelent Thesis Award</li>
       </ul>      
       </div>
+
+
+## Experience
 
 
 ## Publications
