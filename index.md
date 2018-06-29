@@ -42,7 +42,7 @@ I'm Jiyang Gao (高继扬), currently a 3rd-year PhD candidate at University of 
         <li>
           Position: Software Engineering Intern</li>
         <li>
-          TBD </li>
+          Semi-supervised Object Detection </li>
       </ul>      
       </div>
       
