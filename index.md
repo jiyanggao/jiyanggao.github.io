@@ -110,7 +110,7 @@ Zhenheng Yang, **Jiyang Gao** and Ram Nevatia, "_Spatio-Temporal Action Detectio
 **Jiyang Gao**, Chen Sun and Ram Nevatia, “_ACD: Action Concept Discovery from Image-Sentence Corpora_” in ACM International Conference on Multimedia Retrieval (**ACM ICMR**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1604.04784)
 
 ## Professional Services
-Conference Reviewer for ACM MM'17, CVPR'18, ACCV'18, WACV'19 
+Conference Reviewer for ACM MM'17, CVPR'18, ACCV'18, WACV'19 and CVIU
 
 ## Awards
 Annenberg Graduate Fellowship at University of Southern California, 2015
