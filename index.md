@@ -2,11 +2,11 @@
 layout: default
 ---
 ## About Me
-I'm Jiyang Gao (高继扬), currently a 3rd-year PhD candidate at University of Southern California, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focus on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015 and at Google Research during 2017 summer, I will spend 2018 summer at Google Cloud AI.
+I'm Jiyang Gao (高继扬), currently a 4th-year PhD candidate at University of Southern California, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focus on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. I just passed my PhD thesis defense in Nov 8th, 2018 and I will join Waymo as a perception software engineer starting from Jan 2019.
 
 ## Education
 <div align="left">
-        <strong> University of Southern California, Los Angeles, USA (Aug 2015 - Now) </strong>
+        <strong> University of Southern California, Los Angeles, USA (Aug 2015 - Dec 2018) </strong>
           <a href="https://www.usc.edu/" target="_blank" rel="external">
             <img border="0" src="usc_logo.jpg" align="right" width="70" height="70">
           </a> 
@@ -34,7 +34,7 @@ I'm Jiyang Gao (高继扬), currently a 3rd-year PhD candidate at University of 
 
 ## Experience
 <div align="left">
-        <strong> Google Cloud, Sunnyvale, CA, USA (May 2018 - Aug 2018) </strong>
+        <strong> Google Cloud, Sunnyvale, CA, USA (May 2018 - Nov 2018) </strong>
           <a href="https://cloud.google.com/vision/" target="_blank" rel="external">
             <img border="0" src="google-logo.png" align="right" width="60" height="60">
           </a> 
