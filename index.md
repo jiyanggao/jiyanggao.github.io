@@ -6,7 +6,7 @@ I'm Jiyang Gao (高继扬), currently a 4th-year PhD candidate at University of 
 
 ## Education
 <div align="left">
-        <strong> University of Southern California, LA, USA (Aug 2015 - Dec 2018) </strong>
+        <strong> University of Southern California, CA, USA (Aug 2015 - Dec 2018) </strong>
           <a href="https://www.usc.edu/" target="_blank" rel="external">
             <img border="0" src="usc_logo.jpg" align="right" width="70" height="70">
           </a> 
