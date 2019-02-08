@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm Jiyang Gao (高继扬), I passed my PhD thesis defense at USC in 2018 Nov and I will join Waymo as a perception software engineer. My adviser is  [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focus on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
+I'm Jiyang Gao (高继扬), I currently work in Waymo as a perception software engineer. I passed my PhD thesis defense at USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focused on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
 
 ## Education
 <div align="left">
@@ -110,7 +110,9 @@ Zhenheng Yang, **Jiyang Gao** and Ram Nevatia, "_Spatio-Temporal Action Detectio
 **Jiyang Gao**, Chen Sun and Ram Nevatia, “_ACD: Action Concept Discovery from Image-Sentence Corpora_” in ACM International Conference on Multimedia Retrieval (**ACM ICMR**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1604.04784)
 
 ## Professional Services
-Conference Reviewer for ACM MM'17, CVPR'18, ACCV'18, WACV'19 and CVIU
+Conference Reviewer for ACM MM'17, CVPR'18, ACCV'18, WACV'19, CVPR'19
+
+Journal Reviewer for IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, Pattern Recognition and Computer Vision and Image Understanding (CVIU)
 
 ## Awards
 Annenberg Graduate Fellowship at University of Southern California, 2015
