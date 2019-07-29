@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm Jiyang Gao (高继扬), I currently work in Waymo as a perception software engineer. I passed my PhD thesis defense at USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focused on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
+I'm Jiyang Gao (高继扬), I currently work for Waymo as a perception software engineer. I passed my PhD thesis defense at USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focused on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
 
 ## Education
 <div align="left">
@@ -85,6 +85,8 @@ I'm Jiyang Gao (高继扬), I currently work in Waymo as a perception software e
       </div>
       
 ## Publications
+**Jiyang Gao**, Jiang Wang, Shengyang Dai, Li-Jia Li, Ram Nevatia, "_NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection_", International Conference on Computer Vision (**ICCV**), 2019
+
 **Jiyang Gao\***, Kan Chen\*, Ram Nevatia, "_CTAP: Complementary Temporal Action Proposal Generation_", European Conference on Computer Vision (**ECCV**), 2018 (\* indicates equal contribution)
 
 **Jiyang Gao**, Ram Nevatia, "_Revisiting Temporal Modeling for Video-based Person ReID_", tech report, [arxiv](https://arxiv.org/pdf/1805.02104.pdf), [code](https://github.com/jiyanggao/Video-Person-ReID)
