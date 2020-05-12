@@ -34,7 +34,7 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
 ## Publications
 **Jiyang Gao\***, Chen Sun\*, Hang Zhao, Yi Shen, Dragomir Angulov, Congcong Li, Cordelia Schmid, "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020, [arxiv](https://arxiv.org/pdf/2005.04259.pdf) (\* indicates equal contribution)
 
-Zhishuai Zhang, **Jiyang Gao**, Junhua Mao, Yukai Zhang, Congcong Li, "STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020, [arxiv](https://arxiv.org/pdf/2005.04255.pdf)
+Zhishuai Zhang, **Jiyang Gao**, Junhua Mao, Yukai Liu, Dragomir Angulov, Congcong Li, "STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020, [arxiv](https://arxiv.org/pdf/2005.04255.pdf)
 
 **Jiyang Gao**, Jiang Wang, Shengyang Dai, Li-Jia Li, Ram Nevatia, "_NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection_", International Conference on Computer Vision (**ICCV**), 2019, [arxiv](https://arxiv.org/pdf/1812.00124.pdf)
 
