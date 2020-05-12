@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm Jiyang Gao (高继扬), I currently work for Waymo as a perception software engineer. I passed my PhD thesis defense at USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focused on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
+I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, working on perception and prediction. I got my PhD degreee from USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
 
 ## Education
 <div align="left">
@@ -85,6 +85,10 @@ I'm Jiyang Gao (高继扬), I currently work for Waymo as a perception software 
       </div>
       
 ## Publications
+**Jiyang Gao\***, Chen Sun\*, Hang Zhao, Yi Shen, Dragomir Angulov, Congcong Li, Cordelia Schmid, "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020, [arxiv](https://arxiv.org/pdf/2005.04259.pdf) (\* indicates equal contribution)
+
+Zhishuai Zhang, **Jiyang Gao**, Junhua Mao, Yukai Zhang, Congcong Li, "STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020, [arxiv](https://arxiv.org/pdf/2005.04255.pdf)
+
 **Jiyang Gao**, Jiang Wang, Shengyang Dai, Li-Jia Li, Ram Nevatia, "_NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection_", International Conference on Computer Vision (**ICCV**), 2019
 
 **Jiyang Gao\***, Kan Chen\*, Ram Nevatia, "_CTAP: Complementary Temporal Action Proposal Generation_", European Conference on Computer Vision (**ECCV**), 2018 (\* indicates equal contribution)
