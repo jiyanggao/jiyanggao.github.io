@@ -30,68 +30,15 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
           Graduated with Excellent Thesis Award</li>
       </ul>      
       </div>
-
-
-## Experience
-<div align="left">
-        <strong> Google Cloud, Sunnyvale, CA, USA (May 2018 - Nov 2018) </strong>
-          <a href="https://cloud.google.com/vision/" target="_blank" rel="external">
-            <img border="0" src="google-logo.png" align="right" width="60" height="60">
-          </a> 
-        <ul>
-        <li>
-          Position: Software Engineering Intern</li>
-        <li>
-          Semi-supervised Object Detection </li>
-      </ul>      
-      </div>
-      
-<div align="left">
-        <strong> Google Research, Mountain View, CA, USA (May 2017 - Aug 2017) </strong>
-          <a href="https://research.google.com/" target="_blank" rel="external">
-            <img border="0" src="google-logo.png" align="right" width="60" height="60">
-          </a> 
-        <ul>
-        <li>
-          Position: Software Engineering Intern</li>
-        <li>
-          Super large scale (100K classes) image classification, <a href="https://arxiv.org/abs/1711.07607" target="_blank" rel="external"> tech report </a>. </li>
-      </ul>      
-      </div>
-
-<div align="left">
-        <strong> Sensetime, Beijing, China (Feb 2015 - Jun 2015) </strong>
-          <a href="https://www.sensetime.com/about?lang=en-us" target="_blank" rel="external">
-            <img border="0" src="sensetime-logo.png" align="right" width="61" height="65">
-          </a> 
-        <ul>
-        <li>
-          Position: Research Intern</li>
-        <li>
-          Human pose estimation with deep CNN. </li>
-      </ul>      
-      </div>
-     
-<div align="left">
-        <strong> Stanford University, Stanford, CA, USA (Jun 2014 - Aug 2014) </strong>
-          <a target="_blank" rel="external">
-            <img border="0" src="stanford-logo.png" align="right" width="65" height="65">
-          </a> 
-        <ul>
-        <li>
-          Position: Research Intern, in UGVR program</li>
-        <li>Bladder 3D reconstruction from endoscope images using SFM. </li>
-      </ul>      
-      </div>
       
 ## Publications
 **Jiyang Gao\***, Chen Sun\*, Hang Zhao, Yi Shen, Dragomir Angulov, Congcong Li, Cordelia Schmid, "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020, [arxiv](https://arxiv.org/pdf/2005.04259.pdf) (\* indicates equal contribution)
 
 Zhishuai Zhang, **Jiyang Gao**, Junhua Mao, Yukai Zhang, Congcong Li, "STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020, [arxiv](https://arxiv.org/pdf/2005.04255.pdf)
 
-**Jiyang Gao**, Jiang Wang, Shengyang Dai, Li-Jia Li, Ram Nevatia, "_NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection_", International Conference on Computer Vision (**ICCV**), 2019
+**Jiyang Gao**, Jiang Wang, Shengyang Dai, Li-Jia Li, Ram Nevatia, "_NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection_", International Conference on Computer Vision (**ICCV**), 2019, [arxiv](https://arxiv.org/pdf/1812.00124.pdf)
 
-**Jiyang Gao\***, Kan Chen\*, Ram Nevatia, "_CTAP: Complementary Temporal Action Proposal Generation_", European Conference on Computer Vision (**ECCV**), 2018 (\* indicates equal contribution)
+**Jiyang Gao\***, Kan Chen\*, Ram Nevatia, "_CTAP: Complementary Temporal Action Proposal Generation_", European Conference on Computer Vision (**ECCV**), 2018, [arxiv](https://arxiv.org/pdf/1807.04821.pdf) (\* indicates equal contribution)
 
 **Jiyang Gao**, Ram Nevatia, "_Revisiting Temporal Modeling for Video-based Person ReID_", tech report, [arxiv](https://arxiv.org/pdf/1805.02104.pdf), [code](https://github.com/jiyanggao/Video-Person-ReID)
 
