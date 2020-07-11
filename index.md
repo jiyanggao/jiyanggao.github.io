@@ -57,7 +57,7 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
 <tr>
 <td width="100%">
 <p>
-    <b>End-to-end Multi-View Fusion for 3d Object Detection in Lidar Point Clouds</b><br>
+    <b>End-to-End Multi-View Fusion for 3D Object Detection in Lidar Point Clouds</b><br>
     Yin Zhou, Pei Sun, Yu Zhang, Dragomir Anguelov, <b>Jiyang Gao</b>, Tom Ouyang, James Guo, Jiquan Ngiam, Vijay Vasudevan <br>
     <em>CORL 2019</em><br>
 [<a href="https://arxiv.org/pdf/1910.06528.pdf">Paper</a>]
