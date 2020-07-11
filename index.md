@@ -32,55 +32,172 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
       </div>
       
 ## Publications
-**Jiyang Gao\***, Chen Sun\*, Hang Zhao, Yi Shen, Dragomir Angulov, Congcong Li, Cordelia Schmid, "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020, [arxiv](https://arxiv.org/pdf/2005.04259.pdf) (\* indicates equal contribution)
+<tr>
+<td width="100%">
+<p>
+    <b>VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation</b><br>
+    <b>Jiyang Gao*</b>, Chen Sun*, Hang Zhao, Yi Shen, Dragomir Angulov, Congcong Li, Cordelia Schmid<br>
+    <em>CVPR 2020</em><br>
+[<a href="https://arxiv.org/pdf/2005.04259.pdf">Paper</a>]
+</p>
+</td>
+</tr>
 
-Zhishuai Zhang, **Jiyang Gao**, Junhua Mao, Yukai Liu, Dragomir Angulov, Congcong Li, "STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction", IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020, [arxiv](https://arxiv.org/pdf/2005.04255.pdf)
+<tr>
+<td width="100%">
+<p>
+    <b>STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction</b><br>
+    Zhishuai Zhang, <b>Jiyang Gao</b>, Junhua Mao, Yukai Liu, Dragomir Angulov, Congcong Li<br>
+    <em>CVPR 2020</em><br>
+[<a href="https://arxiv.org/pdf/2005.04255.pdf">Paper</a>]
+</p>
+</td>
+</tr>
 
-**Jiyang Gao**, Jiang Wang, Shengyang Dai, Li-Jia Li, Ram Nevatia, "_NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection_", International Conference on Computer Vision (**ICCV**), 2019, [arxiv](https://arxiv.org/pdf/1812.00124.pdf)
+<tr>
+<td width="100%">
+<p>
+    <b>End-to-end Multi-View Fusion for 3d Object Detection in Lidar Point Clouds</b><br>
+    Yin Zhou, Pei Sun, Yu Zhang, Dragomir Anguelov, <b>Jiyang Gao</b>, Tom Ouyang, James Guo, Jiquan Ngiam, Vijay Vasudevan <br>
+    <em>CORL 2019</em><br>
+[<a href="https://arxiv.org/pdf/1910.06528.pdf">Paper</a>]
+</p>
+</td>
+</tr>
 
-**Jiyang Gao\***, Kan Chen\*, Ram Nevatia, "_CTAP: Complementary Temporal Action Proposal Generation_", European Conference on Computer Vision (**ECCV**), 2018, [arxiv](https://arxiv.org/pdf/1807.04821.pdf) (\* indicates equal contribution)
+<tr>
+<td width="100%">
+<p>
+    <b>Mac: Mining Activity Concepts for Language-based Temporal Localization</b><br>
+    Runzhou Ge, <b>Jiyang Gao</b>, Kan Chen, Ram Nevatia<br>
+    <em>WACV 2019</em><br>
+[<a href="https://arxiv.org/pdf/1811.08925.pdf">Paper</a>] [<a href=" https://github.com/runzhouge/MAC ">Code</a>] 
+</p>
+</td>
+</tr>
 
-**Jiyang Gao**, Ram Nevatia, "_Revisiting Temporal Modeling for Video-based Person ReID_", tech report, [arxiv](https://arxiv.org/pdf/1805.02104.pdf), [code](https://github.com/jiyanggao/Video-Person-ReID)
+<tr>
+<td width="100%">
+<p>
+    <b>NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection</b><br>
+    <b>Jiyang Gao</b>, Jiang Wang, Shengyang Dai, Li-Jia Li, Ram Nevatia<br>
+    <em>ICCV 2019</em><br>
+[<a href="https://arxiv.org/pdf/1812.00124.pdf">Paper</a>]
+</p>
+</td>
+</tr>
 
-**Jiyang Gao\***, Runzhou Ge\*, Kan Chen, Ram Nevatia, "_Motion-Appearance Co-Memory Networks for Video Question Answering_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018, [arxiv](https://arxiv.org/pdf/1803.10906.pdf) (\* indicates equal contribution)
+<tr>
+<td width="100%">
+<p>
+    <b>CTAP: Complementary Temporal Action Proposal Generation</b><br>
+    <b>Jiyang Gao*</b>, Kan Chen*, Ram Nevatia<br>
+    <em>ECCV 2018 </em><br>
+[<a href="https://arxiv.org/pdf/1807.04821.pdf">Paper</a>]
+</p>
+</td>
+</tr>
 
-Kan Chen, **Jiyang Gao**, Ram Nevatia, "_Knowledge Aided Consistency for Weakly Supervised Phrase Grounding_", in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018, [arxiv](https://arxiv.org/pdf/1803.03879.pdf), [code](https://github.com/kanchen-usc/KAC-Net) 
+<tr>
+<td width="100%">
+<p>
+    <b>Revisiting Temporal Modeling for Video-based Person ReID</b><br>
+    <b>Jiyang Gao</b>, Ram Nevatia<br>
+    <em>Tech Report 2018 </em><br>
+[<a href="https://arxiv.org/pdf/1805.02104.pdf">Paper</a>] [<a href="https://github.com/jiyanggao/Video-Person-ReID">Code</a>]
+</p>
+</td>
+</tr>
 
-**Jiyang Gao**, Zijian (James) Guo, Zhen Li, Ram Nevatia, "_Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN_", tech report for the summer intern at Google Research, [arxiv](https://arxiv.org/abs/1711.07607)
+<tr>
+<td width="100%">
+<p>
+    <b>Motion-Appearance Co-Memory Networks for Video Question Answering</b><br>
+    <b>Jiyang Gao*</b>, Runzhou Ge*, Kan Chen, Ram Nevatia<br>
+    <em>CVPR 2018 </em><br>
+[<a href="https://arxiv.org/pdf/1803.10906.pdf">Paper</a>]
+</p>
+</td>
+</tr>
 
-**Jiyang Gao**, Chen Sun, Zhenheng Yang and Ram Nevatia, "_TALL: Temporal Activity Localization via Language Query_", in International Conference on Computer Vision (**ICCV**), 2017, **[Spotlight]**, [arxiv](https://arxiv.org/abs/1705.02101), [code](https://github.com/jiyanggao/TALL), [video](https://www.youtube.com/watch?v=ZDO064ccYS0)
+<tr>
+<td width="100%">
+<p>
+    <b>Knowledge Aided Consistency for Weakly Supervised Phrase Grounding</b><br>
+    Kan Chen, <b>Jiyang Gao</b>, Ram Nevatia<br>
+    <em>CVPR 2018 </em><br>
+[<a href="https://arxiv.org/pdf/1803.03879.pdf">Paper</a>] [<a href="https://github.com/kanchen-usc/KAC-Net">Code</a>]
+</p>
+</td>
+</tr>
 
-**Jiyang Gao\***, Zhenheng Yang*, Kan Chen, Chen Sun and Ram Nevatia, "_TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals_", in International Conference on Computer Vision (**ICCV**), 2017, [arxiv](https://arxiv.org/abs/1703.06189), [code](https://github.com/jiyanggao/TURN-TAP) (\* indicates equal contribution)
+<tr>
+<td width="100%">
+<p>
+    <b>Knowledge Concentration: Learning 100K Object Classifiers in a Single CNN</b><br>
+    <b>Jiyang Gao</b>, James Guo, Zhen Li, Ram Nevatia<br>
+    <em>Tech Report 2017 </em><br>
+[<a href="https://arxiv.org/abs/1711.07607">Paper</a>]
+</p>
+</td>
+</tr>
 
-**Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "_Cascaded Boundary Regression for Temporal Action Detection_", in British Machine Vision Conference (**BMVC**), 2017, [arxiv](https://arxiv.org/abs/1705.01180), [code](https://github.com/jiyanggao/CBR), [THUMOS-14 results](https://github.com/jiyanggao/CBR-results) 
+<tr>
+<td width="100%">
+<p>
+    <b>TALL: Temporal Activity Localization via Language Query</b><br>
+    <b>Jiyang Gao</b>, Chen Sun, Zhenheng Yang and Ram Nevatia<br>
+    <em>ICCV 2017 </em><br>
+[<a href="https://arxiv.org/abs/1705.02101">Paper</a>] [<a href="https://github.com/jiyanggao/TALL">Code</a>] [<a href="https://www.youtube.com/watch?v=ZDO064ccYS">Video</a>] 
+</p>
+</td>
+</tr>
 
-**Jiyang Gao**, Zhenheng Yang and Ram Nevatia, "_RED: Reinforced Encoder-Decoder Network for Action Anticipation_", in British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [arxiv](https://arxiv.org/abs/1707.04818), [video](https://www.youtube.com/watch?v=wewtVcMzet0&t=6s)
+<tr>
+<td width="100%">
+<p>
+    <b>TALL: Temporal Activity Localization via Language Query</b><br>
+    <b>Jiyang Gao*</b>, Zhenheng Yang*, Kan Chen, Chen Sun and Ram Nevatia<br>
+    <em>ICCV 2017 </em><br>
+[<a href="https://arxiv.org/abs/1703.06189">Paper</a>] [<a href="https://github.com/jiyanggao/TURN-TAP">Code</a>]
+</p>
+</td>
+</tr>
 
-Zhenheng Yang, **Jiyang Gao** and Ram Nevatia, "_Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation_", in British Machine Vision Conference (**BMVC**), 2017 **[Oral]**, [arxiv](https://arxiv.org/abs/1708.00042), [video](https://www.youtube.com/watch?v=oxPxY0aB4eI) 
+<tr>
+<td width="100%">
+<p>
+    <b>Cascaded Boundary Regression for Temporal Action Detection</b><br>
+    <b>Jiyang Gao</b>, Zhenheng Yang, Ram Nevatia<br>
+    <em>BMVC 2017 </em><br>
+[<a href="https://arxiv.org/abs/1705.01180">Paper</a>] [<a href="https://github.com/jiyanggao/CBR">Code</a>] [<a href="https://github.com/jiyanggao/CBR-results">THUMOS-14 Results</a>]
+</p>
+</td>
+</tr>
 
-**Jiyang Gao** and Ram Nevatia, “_Learning Action Concept Trees and Semantic Alignment Networks from Image-Description Data_” in Asian Conference on Computer Vision (**ACCV**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1609.02284)
+<tr>
+<td width="100%">
+<p>
+    <b>RED: Reinforced Encoder-Decoder Network for Action Anticipation</b><br>
+    <b>Jiyang Gao</b>, Zhenheng Yang, Ram Nevatia<br>
+    <em>BMVC 2017 </em><br>
+[<a href="https://arxiv.org/abs/1707.04818">Paper</a>] [<a href="https://www.youtube.com/watch?v=wewtVcMzet0&t=6s">Video</a>]
+</p>
+</td>
+</tr>
 
-**Jiyang Gao**, Chen Sun and Ram Nevatia, “_ACD: Action Concept Discovery from Image-Sentence Corpora_” in ACM International Conference on Multimedia Retrieval (**ACM ICMR**), 2016 **[Oral]**, [arxiv](https://arxiv.org/abs/1604.04784)
+<tr>
+<td width="100%">
+<p>
+    <b>Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation</b><br>
+    Zhenheng Yang, <b>Jiyang Gao</b>, Ram Nevatia<br>
+    <em>BMVC 2017 </em><br>
+[<a href="https://arxiv.org/abs/1708.00042">Paper</a>] [<a href="https://www.youtube.com/watch?v=oxPxY0aB4eI">Video</a>]
+</p>
+</td>
+</tr>
 
 ## Professional Services
 Conference Reviewer for ACM MM'17, CVPR'18, ACCV'18, WACV'19, CVPR'19
 
 Journal Reviewer for IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, Pattern Recognition and Computer Vision and Image Understanding (CVIU)
-
-## Awards
-Annenberg Graduate Fellowship at University of Southern California, 2015
-
-Excellent Bachelor Thesis at Tsinghua University, 2015
-
-Changhong Scholarship at Tsinghua University, 2014
-
-First Prize of 31st “Challenge Cup” Student Academic Competition of Tsinghua University (as Team Leader), 2013
-
-
-<div align="center">
-        <strong>This page has been visited for
-          <a href="http://www.amazingcounters.com" target="_blank" rel="external">
-            <img border="0" src="http://cc.amazingcounters.com/counter.php?i=3221443&c=9664642" alt="AmazingCounters.com">
-          </a> times</strong>
-      </div>
-      
