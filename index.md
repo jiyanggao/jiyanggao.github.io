@@ -93,7 +93,7 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
     <b>CTAP: Complementary Temporal Action Proposal Generation</b><br>
     <b>Jiyang Gao*</b>, Kan Chen*, Ram Nevatia<br>
     <em>ECCV 2018 </em><br>
-[<a href="https://arxiv.org/pdf/1807.04821.pdf">Paper</a>]
+[<a href="https://arxiv.org/pdf/1807.04821.pdf">Paper</a>] [<a href="https://github.com/jiyanggao/CTAP">Code</a>]
 </p>
 </td>
 </tr>
