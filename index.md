@@ -71,7 +71,7 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
     <b>Mac: Mining Activity Concepts for Language-based Temporal Localization</b><br>
     Runzhou Ge, <b>Jiyang Gao</b>, Kan Chen, Ram Nevatia<br>
     <em>WACV 2019</em><br>
-[<a href="https://arxiv.org/pdf/1811.08925.pdf">Paper</a>] [<a href=" https://github.com/runzhouge/MAC ">Code</a>] 
+[<a href="https://arxiv.org/pdf/1811.08925.pdf">Paper</a>] [<a href="https://github.com/runzhouge/MAC">Code</a>] 
 </p>
 </td>
 </tr>
