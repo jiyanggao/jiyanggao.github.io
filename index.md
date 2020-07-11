@@ -198,6 +198,6 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
 </tr>
 
 ## Professional Services
-Conference Reviewer for ACM MM'17, CVPR'18, ACCV'18, WACV'19, CVPR'19
+Conference Reviewer for ACM MM'17, CVPR'18, ACCV'18, WACV'19, CVPR'19, ICCV'19, ICLR'20, AAAI'20, CVPR'20, WACV'20, ECCV'20, ACM MM'20
 
 Journal Reviewer for IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, Pattern Recognition and Computer Vision and Image Understanding (CVIU)
