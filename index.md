@@ -156,7 +156,7 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
 <tr>
 <td width="100%">
 <p>
-    <b>TALL: Temporal Activity Localization via Language Query</b><br>
+    <b>TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals</b><br>
     <b>Jiyang Gao*</b>, Zhenheng Yang*, Kan Chen, Chen Sun and Ram Nevatia<br>
     <em>ICCV 2017 </em><br>
 [<a href="https://arxiv.org/abs/1703.06189">Paper</a>] [<a href="https://github.com/jiyanggao/TURN-TAP">Code</a>]
