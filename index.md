@@ -35,10 +35,21 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
 <tr>
 <td width="100%">
 <p>
+    <b>TNT: Target-driveN Trajectory Prediction</b><br>
+    Hang Zhao*; <b>Jiyang Gao*</b>; Tian Lan; Chen Sun; Benjamin Sapp; Balakrishnan Varadarajan; Yue Shen; Yi Shen; Yuning Chai; Cordelia Schmid; Congcong Li; Dragomir Anguelov<br>
+    <em>CoRL 2020</em><br>
+[<a href="https://arxiv.org/pdf/2008.08294.pdf">Paper</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
     <b>VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation</b><br>
     <b>Jiyang Gao*</b>, Chen Sun*, Hang Zhao, Yi Shen, Dragomir Angulov, Congcong Li, Cordelia Schmid<br>
     <em>CVPR 2020</em><br>
-[<a href="https://arxiv.org/pdf/2005.04259.pdf">Paper</a>]
+[<a href="https://arxiv.org/pdf/2005.04259.pdf">Paper</a>] [<a href="https://blog.waymo.com/2020/05/vectornet.html">Waymo Blog</a>] [<a href="https://venturebeat.com/2020/05/14/waymos-ai-uses-vectors-to-predict-pedestrian-cyclist-and-driver-behavior/">VentureBeat</a>] 
 </p>
 </td>
 </tr>
@@ -59,7 +70,7 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
 <p>
     <b>End-to-End Multi-View Fusion for 3D Object Detection in Lidar Point Clouds</b><br>
     Yin Zhou, Pei Sun, Yu Zhang, Dragomir Anguelov, <b>Jiyang Gao</b>, Tom Ouyang, James Guo, Jiquan Ngiam, Vijay Vasudevan <br>
-    <em>CORL 2019</em><br>
+    <em>CoRL 2019</em><br>
 [<a href="https://arxiv.org/pdf/1910.06528.pdf">Paper</a>]
 </p>
 </td>
