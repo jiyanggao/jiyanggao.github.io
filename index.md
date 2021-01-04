@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, working on perception and prediction. I got my PhD degreee from USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
+I'm Jiyang Gao (高继扬), currently a tech lead & senior software engineer in Waymo, the areas I worked on include 3D object detection and tracking, scene understanding, online mapping and ML-based prediction&planning. I got my PhD degreee from USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
 
 ## Education
 <div align="left">
@@ -31,7 +31,7 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
       </ul>      
       </div>
       
-## Publications
+## Selected Publications
 <tr>
 <td width="100%">
 <p>
@@ -209,6 +209,6 @@ I'm Jiyang Gao (高继扬), currently a senior software engineer in Waymo, worki
 </tr>
 
 ## Professional Services
-Conference Reviewer for ACM MM'17, CVPR'18, ACCV'18, WACV'19, CVPR'19, ICCV'19, ICLR'20, AAAI'20, CVPR'20, WACV'20, ECCV'20, ACM MM'20
+Conference Reviewer for CVPR, ICCV, ECCV, ICLR, AAAI, ACM MM, ACCV, WACV,
 
-Journal Reviewer for IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, Pattern Recognition and Computer Vision and Image Understanding (CVIU)
+Journal Reviewer for IEEE PAMI,  International Journal of Computer Vision (IJCV), Computer Vision and Image Understanding (CVIU), IEEE Transactions on Multimedia, Pattern Recognition, IEEE Transactions on Cybernetics.
