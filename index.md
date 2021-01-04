@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I'm Jiyang Gao (高继扬), currently a tech lead & senior software engineer in Waymo, the areas I worked on include 3D object detection and tracking, scene understanding, online mapping and ML-based prediction&planning. I got my PhD degreee from USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
+I'm Jiyang Gao (高继扬), currently a tech lead & senior software engineer in Waymo, the areas I work on include 3D object detection and tracking, scene understanding, online mapping and ML-based prediction&planning. I got my PhD degreee from USC in 2018 Nov, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015, at Google Research during 2017 summer, at Google Cloud AI in 2018. 
 
 ## Education
 <div align="left">
