@@ -36,7 +36,7 @@ I'm Jiyang Gao (高继扬), currently a tech lead & senior software engineer in 
 <td width="100%">
 <p>
     <b>TNT: Target-driveN Trajectory Prediction</b><br>
-    Hang Zhao*; <b>Jiyang Gao*</b>; Tian Lan; Chen Sun; Benjamin Sapp; Balakrishnan Varadarajan; Yue Shen; Yi Shen; Yuning Chai; Cordelia Schmid; Congcong Li; Dragomir Anguelov<br>
+    Hang Zhao*, <b>Jiyang Gao*</b>, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov<br>
     <em>CoRL 2020</em><br>
 [<a href="https://arxiv.org/pdf/2008.08294.pdf">Paper</a>]
 </p>
